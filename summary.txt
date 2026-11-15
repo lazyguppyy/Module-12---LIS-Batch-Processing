@@ -1,0 +1,7 @@
+For this assignment, I followed the mini-tutorial provided by the professor. I broke down the assignment into different phases. I first imported pandas and wrote code that would read the dataset and look at the headers for each column of data. I then managed different areas within the dataset including standardizing the publication year, resource type, and identifying duplicate records within the dataset.
+
+After completing that, I wrote a summary report that included the total number of records, unique titles, duplicated found, and the number of resource types. I then saved the cleaned data to a new csv file.
+
+The biggest challenge I found with this assignment was how to get started. I was familiar with how to import pandas, reading the dataset, and getting the headers. I had trouble with doing the miniscule tasks such as standardizing the publication year. I found creating a new column to be pretty straightforward though without the mini-tutorial provided, I wouldn't have been able to complete that on my own.
+
+Overall, I think that I need more practice with batch processing. I found it quite useful and can see how it can be a strength when used in the library environment, especially when trying to identify what materials are already in a libraries collection and if there are duplicates. I think for the future, I would like to expand on this script by adding additional source types such as eBooks, audiobooks, PDFs, and journals.
